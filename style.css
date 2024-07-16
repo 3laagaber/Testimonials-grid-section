@@ -22,7 +22,7 @@ p{
 }
 .content{
     height: 100vh;
-     background-color: var(--Light-gray)/50%;
+     background-color: var(--Light-grayish-blue);
     display: flex;
     justify-content: center;
     align-items: center;
