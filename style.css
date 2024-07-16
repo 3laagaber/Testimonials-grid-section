@@ -63,7 +63,7 @@ p{
 }
 .heading svg {
     position: absolute;
-    right: 25px;
+    right: 0;
 }
 .heading img{
     border-radius: 50%;
